@@ -12,4 +12,10 @@ Sample code repo: https://github.com/jfversluis/XFEOpen...
 Geocoding Video: https://www.youtube.com/watch?v=_HGtTQZuH-8
 
 Xamarin Essentials Repo: https://github.com/xamarin/Essentials
+
 Xamarin.Essentials Maps Docs: https://docs.microsoft.com/xamarin/es...
+
+XamarinDevelopers on YouTube:  https://www.youtube.com/c/XamarinDevelopers
+
+Xamarin Show:  https://channel9.msdn.com/Shows/XamarinShow
+
